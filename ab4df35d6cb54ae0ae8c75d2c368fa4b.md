@@ -1,6 +1,6 @@
 # 讨论
 
-- We are preparing a longer response for comparisons of Zeitgeist to other prediction markets. The gist of it is that Zeitgeist builds on the ground that Augur broke in decentralized prediction markets, namely by building out new primitives for prediction markets and ways to trade them. We also are focusing on how prediction markets can be a cornerstone in our on-chain governance mechansim by using Futarchy.
+- We are preparing a longer response for comparisons of Zeitgeist to other prediction markets. The gist of it is that Zeitgeist builds on the ground that Augur broke in decentralized prediction markets, namely by building out new primitives for prediction markets and ways to trade them. We also are focusing on how prediction markets can be a cornerstone in our on-chain governance mechanism by using Futarchy.
 - Zeitgeist is taking a different approach from polkamarkets afaik, we are building an ecosystem and hub for application based on prediction markets. This includes our own application and front-end but also an SDK for others to use zeitgeist as a tech stack.
 - Polkamarkets is not building a parachain I thought, but rather a single application being deployed to a parachain. Zeitgeist could potentially support thousands of polkamarket-like applications on its base layer parachain.
 
@@ -23,7 +23,7 @@
 id: ab4df35d6cb54ae0ae8c75d2c368fa4b
 parent_id: a7447bf6f33b41ddb1e201f14029d0ea
 created_time: 2021-04-26T08:32:05.147Z
-updated_time: 2021-04-26T08:41:59.687Z
+updated_time: 2021-04-27T03:54:39.287Z
 is_conflict: 0
 latitude: 0.00000000
 longitude: 0.00000000
@@ -38,7 +38,7 @@ source_application: net.cozic.joplin-desktop
 application_data: 
 order: 0
 user_created_time: 2021-04-26T08:32:05.147Z
-user_updated_time: 2021-04-26T08:41:59.687Z
+user_updated_time: 2021-04-27T03:54:39.287Z
 encryption_cipher_text: 
 encryption_applied: 0
 markup_language: 1
