@@ -7,12 +7,12 @@
 - [ ] [An Introduction to Cryptoeconomics and Futarchy experiments on Gnosis](https://medium.com/@consensus/an-introduction-to-cryptoeconomics-and-futarchy-experiments-on-gnosis-df85220f840a)
 - [ ] [Why & How Decentralized Prediction Markets Will Change Just About Everything.](https://medium.com/@ConsenSys/why-how-decentralized-prediction-markets-will-change-just-about-everything-15ff02c98f7c)
 - [ ] [Re-Discovering Prediction Markets](https://blog.aeternity.com/re-discovering-prediction-markets-ac2e780bb263)
-- [ ] 
+- [ ] [The Ultimate Guide to Crowdsourced Forecasting and Prediction Markets](https://www.cultivatelabs.com/prediction-markets-guide/) 
 
 id: d4808bcdaaac4d08aa47e990eb9b95df
 parent_id: 35acacbdf0bd4333b1d61c2e03ff4d05
 created_time: 2021-04-11T01:34:41.263Z
-updated_time: 2021-05-20T11:33:55.219Z
+updated_time: 2021-05-21T06:14:11.063Z
 is_conflict: 0
 latitude: 0.00000000
 longitude: 0.00000000
@@ -27,7 +27,7 @@ source_application: net.cozic.joplin-desktop
 application_data: 
 order: 0
 user_created_time: 2021-04-11T01:34:41.263Z
-user_updated_time: 2021-05-20T11:33:55.219Z
+user_updated_time: 2021-05-21T06:14:11.063Z
 encryption_cipher_text: 
 encryption_applied: 0
 markup_language: 1
